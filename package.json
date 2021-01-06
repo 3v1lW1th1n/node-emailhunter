@@ -34,7 +34,7 @@
     "repository": "b4dnewz/node-emailhunter",
     "license": "MIT",
     "dependencies": {
-        "axios": "^0.19"
+        "axios": "^0.21"
     },
     "devDependencies": {
         "@types/jest": "^24.0.23",
